@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Table Toggle Extension",
+  "version": "1.0",
+  "description": "Toggles line clamp of commit messages in Mendix Teamserver",
+  "permissions": ["activeTab"],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "commands": {
+    "run_script": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+Space"
+      },
+      "description": "Toggles commit messages"
+    }
+  }
+}
