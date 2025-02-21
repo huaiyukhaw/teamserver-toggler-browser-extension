@@ -16,7 +16,8 @@ This is a simple Chrome and Firefox extension that allows you to toggle the line
 
 - Chrome: Load the unpacked extension via chrome://extensions/.
 - Firefox: Load the temporary add-on via about:debugging#/runtime/this-firefox.
-- Enable the extension.
+
+2. Enable the extension.
 
 ## Usage
 
